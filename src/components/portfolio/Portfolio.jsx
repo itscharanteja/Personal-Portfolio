@@ -53,7 +53,7 @@ export default function Portfolio() {
       </ul>
       <div className="container">
         {data.map((d) => (
-          <a href={d.link}>
+          <a href={d.link} target="_blank" rel="noreferrer">
             <div className="item">
               <img src={d.img} alt="" />
 
