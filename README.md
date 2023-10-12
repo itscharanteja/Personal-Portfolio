@@ -20,7 +20,7 @@ This project is my internship project based blood donors information. This websi
 
 ![Project 2 Screenshot](public/assets/project-blood.png)
 
-### Project 3: [Tic-TAc-Toe](https://github.com/itscharanteja/Tic-Tac-Toe-React)
+### Project 3: [Tic-Tac-Toe](https://github.com/itscharanteja/Tic-Tac-Toe-React)
 
 ![Project 3 Screenshot](public/assets/project-tic.png)
 This is simple web game called Tic-Tac-Toe or also known as XO Game.
